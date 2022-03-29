@@ -1,3 +1,11 @@
+p{
+    margin: 0;
+}
+
+body{
+    background-color: rgb(253, 245, 234);
+}
+
 header{
     background-color: #9575cd;
     color: white;
@@ -5,8 +13,4 @@ header{
 
 footer{
     background-color: #d1c4e9;
-}
-
-body{
-    font-size: 20px;
 }
